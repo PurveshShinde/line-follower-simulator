@@ -6,9 +6,7 @@ This project contains a Python-based PID controller (`task1a.py`) that controls 
 
 Watch the line follower in action below:
 
-<video src="demo_line_follower.mp4" width="100%" controls="controls">
-  Your browser does not support the video tag.
-</video>
+<video src="demo_line_follower.mp4" controls width="100%"></video>
 
 _(Note: If the video above does not play, you can download or view it directly [here](demo_line_follower.mp4).)_
 
