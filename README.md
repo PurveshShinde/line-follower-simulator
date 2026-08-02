@@ -1,3 +1,6 @@
+
+
+
 # Line Follower Robot Project
 
 This project contains a Python-based PID controller (`task1a.py`) that controls a line-following robot inside a simulated environment.
@@ -6,7 +9,8 @@ This project contains a Python-based PID controller (`task1a.py`) that controls 
 
 Watch the line follower in action below:
 
-<video src="demo_line_follower.mp4" controls width="100%"></video>
+<video src="[demo_line_follower.mp4](https://github.com/user-attachments/assets/9e15e997-73e7-4af4-96d7-8a073abcbe60
+Uploading demo_line_follower.mp4…)" controls width="100%"></video>
 
 _(Note: If the video above does not play, you can download or view it directly [here](demo_line_follower.mp4).)_
 
